@@ -11,11 +11,15 @@ package javaapplication6;
  */
 public class JavaApplication6 {
 
+    public static int somar(int x, int y){
+        return x + y;
+    }
     /**
      * @param args the command line arguments
      */
     public static void main(String[] args) {
         // TODO code application logic here
+        
     }
     
 }
