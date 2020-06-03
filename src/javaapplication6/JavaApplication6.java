@@ -22,6 +22,10 @@ public class JavaApplication6 {
     public static int multiplicar(int x, int y){
         return x * y; //retorna a multiplicacao das variaveis
     }
+
+    public static float dividir(float x, float y){
+        return x / y; //retorna a divisao das variaveis
+    }
     /**
      * @param args the command line arguments
      */
