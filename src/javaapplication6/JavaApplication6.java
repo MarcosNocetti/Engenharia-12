@@ -13,20 +13,25 @@ public class JavaApplication6 {
 
     public static int somar(int x, int y){
         return x + y; //retorna a soma das variaveis 
-    
+    }
+
     public static int subtrair(int x, int y){
         return x - y;
     }
 
     public static int multiplicar(int x, int y){
-        return x * y;
+        return x * y; //retorna a multiplicacao das variaveis
+    }
+
+    public static float dividir(float x, float y){
+        return x / y; //retorna a divisao das variaveis
     }
     /**
      * @param args the command line arguments
      */
     public static void main(String[] args) {
         // TODO code application logic here
-        
+
     }
-    
+
 }
