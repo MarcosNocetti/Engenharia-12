@@ -15,7 +15,7 @@ public class JavaApplication6 {
         return x + y; //retorna a soma das variaveis 
     
     public static int subtrair(int x, int y){
-        return x - y;
+        return x - y; // Retorna a subtracao das variaveis
     }
 
     public static int multiplicar(int x, int y){
