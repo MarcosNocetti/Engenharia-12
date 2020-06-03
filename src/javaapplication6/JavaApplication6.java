@@ -17,6 +17,10 @@ public class JavaApplication6 {
     public static int subtrair(int x, int y){
         return x - y;
     }
+
+    public static int multiplicar(int x, int y){
+        return x * y;
+    }
     /**
      * @param args the command line arguments
      */
