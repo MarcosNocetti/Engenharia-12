@@ -20,7 +20,7 @@ public class JavaApplication6 {
     }
 
     public static int multiplicar(int x, int y){
-        return x * y;
+        return x * y; //retorna a multiplicacao das variaveis
     }
     /**
      * @param args the command line arguments
