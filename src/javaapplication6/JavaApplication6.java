@@ -11,8 +11,8 @@ package javaapplication6;
  */
 public class JavaApplication6 {
 
-    public static int somar(int x, int y){
-        return x + y; //retorna a soma das variaveis 
+    public static int somar(int x, int y, int z){
+        return x + y + z; //retorna a soma das variaveis 
     }
 
     public static int subtrair(int x, int y){
